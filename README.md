@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
     <a href="t.me/YotoHana"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"></a>
-    <a><img alt="Static Badge" src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail"></a>
+    <a href="mailto:yotohana.dev@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail"></a>
 </div>
 
 # 💻Tech Stack
